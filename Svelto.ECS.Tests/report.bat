@@ -1,0 +1,1 @@
+D:\dev\ReportGenerator_4.5.6\net47\ReportGenerator.exe -reports:.\coverage.cobertura.xml -targetdir:.\TestReports

@@ -262,3 +262,6 @@ __pycache__/
 /UnitTests/UnitTests/packages.config
 Properties
 Svelto.ECS/EntityBuilder.cs.rej
+/Svelto.ECS.Tests/TestReports
+/Svelto.ECS.Tests/TestResults
+/Svelto.ECS.Tests/coverage.cobertura.xml
